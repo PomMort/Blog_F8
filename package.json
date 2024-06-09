@@ -1,0 +1,33 @@
+{
+  "name": "blog_f8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PomMort/Blog_F8.git"
+  },
+  "keywords": [
+    "f8",
+    "blog",
+    "f8",
+    "nodejs",
+    "nodejs"
+  ],
+  "author": "huyng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PomMort/Blog_F8/issues"
+  },
+  "homepage": "https://github.com/PomMort/Blog_F8#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
